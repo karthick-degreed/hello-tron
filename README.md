@@ -1,2 +1,2 @@
 # hello-tron
-Sample Repository
+Sample Repository - from master branch
